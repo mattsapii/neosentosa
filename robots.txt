@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.apoteksentosa.id/sitemap.xml
+Sitemap: https://neosentosa.com/sitemap.xml
